@@ -1,0 +1,13 @@
+train: C:/PD/dataset/train
+val: C:/PD/dataset/val
+test: C:/PD/dataset/test
+
+nc: 16
+names: ['15deg', '16deg', '17deg', '18deg', '19deg', '20deg', '21deg', '22deg', '23deg', '24deg', '25deg', '26deg', '27deg', '28deg', '29deg', '30deg']
+
+roboflow:
+  workspace: needle-7cs4f
+  project: needle-angle
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/needle-7cs4f/needle-angle/dataset/1
